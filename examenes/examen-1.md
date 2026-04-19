@@ -702,4 +702,47 @@ Rellena aqui tu solucion si quieres autocorregirte despues.
 
 ---
 
-Si quieres, el siguiente paso natural es crear un segundo fichero con el solucionario razonado de este simulacro.
+# Respuestas correctas
+
+1 - D
+2 - B
+3 - C
+4 - C
+5 - C
+6 - B
+7 - B
+8 - B
+9 - B
+10 - B
+11 - B
+12 - B
+13 - B
+14 - B
+15 - B
+16 - B
+17 - B
+18 - B
+19 - C
+20 - B
+21 - B
+22 - C
+23 - B
+24 - C
+25 - B
+26 - A
+27 - B
+28 - C
+29 - B
+30 - A
+31 - B
+32 - B
+33 - A
+34 - D
+35 - B
+36 - C
+37 - B
+38 - B
+39 - B
+40 - B
+
+---

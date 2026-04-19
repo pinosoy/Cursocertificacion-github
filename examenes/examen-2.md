@@ -627,3 +627,46 @@ Rellena aquí tu solución si quieres autocorregirte después.
 39.
 40.
 
+
+# Respuestas correctas
+
+1 - A
+2 - B
+3 - A
+4 - B
+5 - A
+6 - C
+7 - B
+8 - A
+9 - B
+10 - B
+11 - A
+12 - B
+13 - A
+14 - A
+15 - C
+16 - B
+17 - A
+18 - B
+19 - A
+20 - B
+21 - A
+22 - A
+23 - B
+24 - B
+25 - B
+26 - B
+27 - A
+28 - B
+29 - B
+30 - A
+31 - A
+32 - B
+33 - B
+34 - C
+35 - A
+36 - A
+37 - B
+38 - B
+39 - A
+40 - B
